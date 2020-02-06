@@ -1,0 +1,57 @@
+{
+    "title":"Hello, I'm Alireza Tehrani",
+    "subtitle":"Full Stack Dev | Mobile App Dev",
+    "links":{
+        "github":"d0main.ir",
+        "stackoverflow":"https://stackoverflow.com/users/2506040/alite",
+        "linkedin":"https://www.linkedin.com/in/alireza-tehrani-93163a56/"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items":[
+                {
+                    "type":"p",
+                    "content":"React library to render components only on specific viewports"
+                }
+            ]
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/react.png",
+                        "title":"React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/js.png",
+                        "title":"javascript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/html.png",
+                        "title":"HTML"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/css.png",
+                        "title":"CSS"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons":{
+        "down":"images/down.png"
+    }
+
+}

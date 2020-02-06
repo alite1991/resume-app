@@ -1,3 +1,20 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.first{
+  background-color: #004080;
+  color:white;
+}
+.second{
+  background-color: #ffff59;
+}
+.third{
+  background-color: #c0c0c0;
+}
+
+
 .App {
   text-align: center;
 }
